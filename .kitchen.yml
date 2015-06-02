@@ -10,6 +10,7 @@ platforms:
 - name: freebsd-9.2
 - name: freebsd-9.2-i386
 - name: freebsd-10.0
+- name: freebsd-10.1
 
 suites:
 - name: portsnap
